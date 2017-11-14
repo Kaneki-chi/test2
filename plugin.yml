@@ -1,0 +1,5 @@
+name: BanManager
+version: 1.0
+api: 1.12.0, 2.0.0, 3.0.1
+author: ZhoyOtaku
+main: BM\Main
